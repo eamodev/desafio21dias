@@ -32,7 +32,7 @@ A missão está dividida em **3 semanas**, cada uma com foco estratégico.
 | Dia | Missão                                                           | Status |
 | --- | ---------------------------------------------------------------- | ------ |
 | 1   | Escolher linguagem principal e criar pasta de estudos            |  ✔️    |
-| 2   | Configurar ambiente + primeiro “Olá, Mundo!”                     | 🔄     |
+| 2   | Configurar ambiente + primeiro “Olá, Mundo!”                     |  ✔️    |
 | 3   | Variáveis, tipos e operadores → script com entrada e saída       | 🔄     |
 | 4   | Condicionais → simulação de decisão                              | 🔄     |
 | 5   | Laços (for/while) → contador, tabuada ou loop automático         | 🔄     |
@@ -80,8 +80,6 @@ Cada dia deste repositório representa:
 * um novo aprendizado
 * um avanço real
 * um compromisso com meu futuro profissional
-
-A evolução é diária — e começa com pequenos passos consistentes.
 
 ---
 
