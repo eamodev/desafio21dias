@@ -73,10 +73,6 @@ A missão está dividida em **3 semanas**, cada uma com foco estratégico.
 
 ---
 
-```
-
----
-
 # 📌 Motivação
 
 Cada dia deste repositório representa:
@@ -96,5 +92,3 @@ O projeto final ficará disponível em:
 ```
 /projeto-final/
 ```
-
----
