@@ -33,7 +33,7 @@ A missão está dividida em **3 semanas**, cada uma com foco estratégico.
 | --- | ---------------------------------------------------------------- | ------ |
 | 1   | Escolher linguagem principal e criar pasta de estudos            |  ✔️    |
 | 2   | Configurar ambiente + primeiro “Olá, Mundo!”                     |  ✔️    |
-| 3   | Variáveis, tipos e operadores → script com entrada e saída       | 🔄     |
+| 3   | Variáveis, tipos e operadores → script com entrada e saída       |  ✔️    |
 | 4   | Condicionais → simulação de decisão                              | 🔄     |
 | 5   | Laços (for/while) → contador, tabuada ou loop automático         | 🔄     |
 | 6   | Resolver 3 desafios de lógica (Codewars, BeeCrowd ou HackerRank) | 🔄     |
