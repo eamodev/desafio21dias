@@ -1,11 +1,11 @@
-#variaveis e tipos de dados
+#VARIAVEIS E TIPOS DE DADOS BASICOS"
 
 #forma na qual você da define os campos e valores deles
-#nome = "Eduarda"
-#idade= 23
-#altura = 1.60
-#developer = True
-#print(f"Olá, meu nome é {nome}, tenho {idade} anos e tenho  {altura} de altura")
+nome = "Eduarda"
+idade= 23
+altura = 1.60
+developer = True
+print(f"Olá, meu nome é {nome}, tenho {idade} anos e tenho  {altura} de altura")
 
 
 #forma na qual o usuario define os campos e valores deles
